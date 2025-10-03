@@ -1,5 +1,9 @@
 # H.E.R. DAO Media Kit
 
+<div align="center">
+  <img src="logos/her dao colour dots.svg" alt="H.E.R. DAO Logo" width="300">
+</div>
+
 Welcome to the official H.E.R. DAO media kit! This comprehensive resource provides everything you need to create compelling content about H.E.R. DAO while maintaining brand consistency and authenticity.
 
 ## About H.E.R. DAO
