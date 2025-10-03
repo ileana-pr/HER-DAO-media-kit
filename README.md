@@ -1,2 +1,2 @@
-# H.E.R.-DAO-media-kit-
+# H.E.R.-DAO-media-kit 
 assets logos and designs 
