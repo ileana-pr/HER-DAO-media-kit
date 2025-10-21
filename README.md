@@ -31,11 +31,11 @@ This media kit contains:
 1. **Start with Brand Guidelines** - Review our brand standards before creating content
 2. **Use Official Assets** - Download logos and graphics from the appropriate folders
 3. **Follow Content Guidelines** - Ensure your content aligns with H.E.R. DAO values
-4. **Check Regional Materials** - Use global assets for location-specific content
+4. **Check Regional Materials** - Use global-chapters assets for location-specific content
 
 ### For Media & Press
 
-1. **Download High-Resolution Assets** - Use logos and images from the `/logos` and `/graphics` folders
+1. **Download High-Resolution Assets** - Use logos and images from the `/logos`, `/graphics`, and `/global-chapters` folders
 2. **Review Brand Guidelines** - Maintain visual consistency in your coverage
 3. **Use Official Messaging** - Reference our key messages and statistics
 
@@ -45,9 +45,27 @@ This media kit contains:
 ├── README.md                 # This file - start here!
 ├── logos/                   # Official H.E.R. DAO logos in various formats
 ├── graphics/                # Visual assets, images, and graphics
-└── global/                  # Region-specific content and assets
-    ├── ghana/               # Ghana-specific materials
-    └── uganda/              # Uganda-specific materials
+├── global-chapters/         # Region-specific content and assets
+│   ├── README.md            # Global chapters overview
+│   ├── argentina/           # Argentina-specific materials
+│   ├── bali/                # Bali-specific materials
+│   ├── bolivia/             # Bolivia-specific materials
+│   ├── chile/               # Chile-specific materials
+│   ├── colombia/            # Colombia-specific materials
+│   ├── france/              # France-specific materials
+│   ├── germany/             # Germany-specific materials
+│   ├── ghana/               # Ghana-specific materials
+│   ├── kenya/               # Kenya-specific materials
+│   ├── korea/               # Korea-specific materials
+│   ├── LATAM/               # Latin America regional materials
+│   ├── mexico/              # Mexico-specific materials
+│   ├── nigeria/             # Nigeria-specific materials
+│   ├── peru/                # Peru-specific materials
+│   ├── south-africa/        # South Africa-specific materials
+│   ├── spain/               # Spain-specific materials
+│   ├── turkiye/             # Turkey-specific materials
+│   ├── uganda/              # Uganda-specific materials
+│   └── venezuela/           # Venezuela-specific materials
 ```
 
 ## Brand Values & Messaging
