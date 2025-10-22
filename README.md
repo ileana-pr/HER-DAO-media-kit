@@ -14,6 +14,8 @@ Our mission is to sustainably diversify the blockchain ecosystem, leading to mor
 
 **Website:** https://www.her-dao.xyz/
 
+**Twitter:** https://x.com/_HerDAO 
+
 ## What's in This Media Kit
 
 This media kit contains:

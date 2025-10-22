@@ -19,7 +19,7 @@ H.E.R. DAO Korea에 오신 것을 환영합니다! 우리는 전 세계 H.E.R. D
 
 ## Social Media & Community Links
 
-- **Twitter:** [@HERDAO_Korea](https://twitter.com/HERDAO_Korea) - *To be updated*
+- **Twitter:** [@HERDAO_Korea](https://x.com/herdaokorea) 
 
 ## Directory Structure
 

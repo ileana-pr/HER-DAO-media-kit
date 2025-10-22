@@ -19,7 +19,7 @@ Willkommen bei H.E.R. DAO Deutschland! Wir sind Teil der globalen H.E.R. DAO Gem
 
 ## Social Media & Community Links
 
-- **Twitter:** [@HERDAO_Germany](https://twitter.com/HERDAO_Germany) - *To be updated*
+- **Twitter:** [@HERDAO_Germany](https://x.com/herdaogermany)
 
 ## Directory Structure
 

@@ -19,7 +19,7 @@ Welcome to H.E.R. DAO Spain! We are part of the global H.E.R. DAO community, ded
 
 ## Social Media & Community Links
 
-- **Twitter:** [@HERDAO_Spain](https://twitter.com/HERDAO_Spain) - *To be updated*
+- **Twitter:** [@HERDAO_Spain](https://x.com/herdaospain)
 
 ## Directory Structure
 

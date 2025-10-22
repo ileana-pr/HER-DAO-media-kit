@@ -19,7 +19,7 @@ Bienvenue à H.E.R. DAO France ! Nous faisons partie de la communauté mondiale 
 
 ## Social Media & Community Links
 
-- **Twitter:** [@HERDAO_France](https://twitter.com/HERDAO_France) - *To be updated*
+- **Twitter:** [@HERDAO_France](https://x.com/HerDaoFrance)
 
 ## Directory Structure
 

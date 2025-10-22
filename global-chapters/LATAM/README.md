@@ -19,7 +19,7 @@ Welcome to H.E.R. DAO LATAM! We are the regional coordination hub for H.E.R. DAO
 
 ## Social Media & Community Links
 
-- **Twitter:** [@HERDAO_LATAM](https://twitter.com/HERDAO_LATAM) - *To be updated*
+- **Twitter:** [@HERDAO_LATAM](https://x.com/herdaolatam) 
 
 ## Directory Structure
 

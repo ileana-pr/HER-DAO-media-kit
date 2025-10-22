@@ -19,7 +19,7 @@ H.E.R. DAO Türkiye'ye hoş geldiniz! Küresel H.E.R. DAO topluluğunun bir par�
 
 ## Social Media & Community Links
 
-- **Twitter:** [@HERDAO_Turkey](https://twitter.com/HERDAO_Turkey) - *To be updated*
+- **Twitter:** [@HERDAO_Turkey](https://x.com/HerDAOTurkiye)
 
 
 ## Directory Structure

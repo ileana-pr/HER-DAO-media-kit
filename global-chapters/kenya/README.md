@@ -19,7 +19,7 @@ Karibu H.E.R. DAO Kenya! Sisi ni sehemu ya jumuiya ya H.E.R. DAO duniani, tunaji
 
 ## Social Media & Community Links
 
-- **Twitter:** [@HERDAO_Kenya](https://twitter.com/HERDAO_Kenya) - *To be updated*
+- **Twitter:** [@HERDAO_Kenya](https://x.com/HERDAO_Kenya)
 
 ## Directory Structure
 
