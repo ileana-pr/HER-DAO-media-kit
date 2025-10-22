@@ -19,11 +19,7 @@ Welcome to H.E.R. DAO Colombia! We are part of the global H.E.R. DAO community, 
 
 ## Social Media & Community Links
 
-- **Twitter:** [@HERDAO_Colombia](https://twitter.com/HERDAO_Colombia) - *To be updated*
-- **Discord:** [H.E.R. DAO Global Discord](https://discord.gg/her-dao) - Colombia channel
-- **LinkedIn:** [H.E.R. DAO Colombia](https://linkedin.com/company/her-dao-colombia) - *To be updated*
-- **Telegram:** [H.E.R. DAO Colombia](https://t.me/herdao_colombia) - *To be updated*
-- **Meetup:** [H.E.R. DAO Colombia](https://meetup.com/her-dao-colombia) - *To be updated*
+- **Twitter:** [@HERDAO_Colombia](https://x.com/herdaocolombia)
 
 ## Directory Structure
 
@@ -73,4 +69,4 @@ For Colombia-specific inquiries:
 - **Website:** https://www.her-dao.xyz/
 - **Contact:** Use the contact form on our website
 - **Regional Focus:** Specify Colombia in your message
-- **Chapter Email:** colombia@her-dao.xyz - *To be updated*
+- **Chapter Email:** 

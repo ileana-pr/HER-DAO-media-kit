@@ -19,11 +19,7 @@ Welcome to H.E.R. DAO Venezuela! We are part of the global H.E.R. DAO community,
 
 ## Social Media & Community Links
 
-- **Twitter:** [@HERDAO_Venezuela](https://twitter.com/HERDAO_Venezuela) - *To be updated*
-- **Discord:** [H.E.R. DAO Global Discord](https://discord.gg/her-dao) - Venezuela channel
-- **LinkedIn:** [H.E.R. DAO Venezuela](https://linkedin.com/company/her-dao-venezuela) - *To be updated*
-- **Telegram:** [H.E.R. DAO Venezuela](https://t.me/herdao_venezuela) - *To be updated*
-- **WhatsApp:** [H.E.R. DAO Venezuela](https://wa.me/58XXXXXXXX) - *To be updated*
+- **Twitter:** [@HERDAO_Venezuela](https://x.com/herdaovzla)
 
 ## Directory Structure
 
@@ -73,4 +69,4 @@ For Venezuela-specific inquiries:
 - **Website:** https://www.her-dao.xyz/
 - **Contact:** Use the contact form on our website
 - **Regional Focus:** Specify Venezuela in your message
-- **Chapter Email:** venezuela@her-dao.xyz - *To be updated*
+- **Chapter Email:** 

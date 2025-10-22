@@ -19,11 +19,7 @@ Welcome to H.E.R. DAO Argentina! We are part of the global H.E.R. DAO community,
 
 ## Social Media & Community Links
 
-- **Twitter:** [@HERDAO_Argentina](https://twitter.com/HERDAO_Argentina) - *To be updated*
-- **Discord:** [H.E.R. DAO Global Discord](https://discord.gg/her-dao) - Argentina channel
-- **LinkedIn:** [H.E.R. DAO Argentina](https://linkedin.com/company/her-dao-argentina) - *To be updated*
-- **Telegram:** [H.E.R. DAO Argentina](https://t.me/herdao_argentina) - *To be updated*
-- **Meetup:** [H.E.R. DAO Argentina](https://meetup.com/her-dao-argentina) - *To be updated*
+- **Twitter:** [@HERDAO_Argentina](https://x.com/herdaoargentina)
 
 ## Directory Structure
 
@@ -52,7 +48,7 @@ Welcome to H.E.R. DAO Argentina! We are part of the global H.E.R. DAO community,
 
 ### Best Practices
 - Respect local cultural norms and values
-- Use appropriate language and terminology
+- Use appropriate language and terminologyvm
 - Include diverse representation in content
 - Highlight local tech ecosystem and opportunities
 - Connect global H.E.R. DAO mission to local impact
@@ -73,4 +69,4 @@ For Argentina-specific inquiries:
 - **Website:** https://www.her-dao.xyz/
 - **Contact:** Use the contact form on our website
 - **Regional Focus:** Specify Argentina in your message
-- **Chapter Email:** argentina@her-dao.xyz - *To be updated*
+- **Chapter Email:** 

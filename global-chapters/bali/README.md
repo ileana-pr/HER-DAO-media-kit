@@ -19,11 +19,7 @@ Selamat datang di H.E.R. DAO Bali! Kami adalah bagian dari komunitas global H.E.
 
 ## Social Media & Community Links
 
-- **Twitter:** [@HERDAO_Bali](https://twitter.com/HERDAO_Bali) - *To be updated*
-- **Discord:** [H.E.R. DAO Global Discord](https://discord.gg/her-dao) - Bali channel
-- **LinkedIn:** [H.E.R. DAO Bali](https://linkedin.com/company/her-dao-bali) - *To be updated*
-- **Telegram:** [H.E.R. DAO Bali](https://t.me/herdao_bali) - *To be updated*
-- **WhatsApp:** [H.E.R. DAO Bali](https://wa.me/62XXXXXXXX) - *To be updated*
+- **Twitter:** [@HERDAO_Bali](https://x.com/herdaobali) 
 
 ## Directory Structure
 
@@ -73,4 +69,4 @@ For Bali-specific inquiries:
 - **Website:** https://www.her-dao.xyz/
 - **Contact:** Use the contact form on our website
 - **Regional Focus:** Specify Bali in your message
-- **Chapter Email:** bali@her-dao.xyz - *To be updated*
+- **Chapter Email:** 

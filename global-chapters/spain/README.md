@@ -20,10 +20,6 @@ Welcome to H.E.R. DAO Spain! We are part of the global H.E.R. DAO community, ded
 ## Social Media & Community Links
 
 - **Twitter:** [@HERDAO_Spain](https://twitter.com/HERDAO_Spain) - *To be updated*
-- **Discord:** [H.E.R. DAO Global Discord](https://discord.gg/her-dao) - Spain channel
-- **LinkedIn:** [H.E.R. DAO Spain](https://linkedin.com/company/her-dao-spain) - *To be updated*
-- **Telegram:** [H.E.R. DAO Spain](https://t.me/herdao_spain) - *To be updated*
-- **Meetup:** [H.E.R. DAO Spain](https://meetup.com/her-dao-spain) - *To be updated*
 
 ## Directory Structure
 
@@ -73,4 +69,4 @@ For Spain-specific inquiries:
 - **Website:** https://www.her-dao.xyz/
 - **Contact:** Use the contact form on our website
 - **Regional Focus:** Specify Spain in your message
-- **Chapter Email:** spain@her-dao.xyz - *To be updated*
+- **Chapter Email:** 

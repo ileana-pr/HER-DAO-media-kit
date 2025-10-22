@@ -20,10 +20,6 @@ Willkommen bei H.E.R. DAO Deutschland! Wir sind Teil der globalen H.E.R. DAO Gem
 ## Social Media & Community Links
 
 - **Twitter:** [@HERDAO_Germany](https://twitter.com/HERDAO_Germany) - *To be updated*
-- **Discord:** [H.E.R. DAO Global Discord](https://discord.gg/her-dao) - Germany channel
-- **LinkedIn:** [H.E.R. DAO Germany](https://linkedin.com/company/her-dao-germany) - *To be updated*
-- **Telegram:** [H.E.R. DAO Germany](https://t.me/herdao_germany) - *To be updated*
-- **Meetup:** [H.E.R. DAO Germany](https://meetup.com/her-dao-germany) - *To be updated*
 
 ## Directory Structure
 
@@ -73,4 +69,4 @@ For Germany-specific inquiries:
 - **Website:** https://www.her-dao.xyz/
 - **Contact:** Use the contact form on our website
 - **Regional Focus:** Specify Germany in your message
-- **Chapter Email:** germany@her-dao.xyz - *To be updated*
+- **Chapter Email:** 

@@ -19,11 +19,7 @@ Welcome to H.E.R. DAO Peru! We are part of the global H.E.R. DAO community, dedi
 
 ## Social Media & Community Links
 
-- **Twitter:** [@HERDAO_Peru](https://twitter.com/HERDAO_Peru) - *To be updated*
-- **Discord:** [H.E.R. DAO Global Discord](https://discord.gg/her-dao) - Peru channel
-- **LinkedIn:** [H.E.R. DAO Peru](https://linkedin.com/company/her-dao-peru) - *To be updated*
-- **Telegram:** [H.E.R. DAO Peru](https://t.me/herdao_peru) - *To be updated*
-- **Meetup:** [H.E.R. DAO Peru](https://meetup.com/her-dao-peru) - *To be updated*
+- **Twitter:** [@HERDAO_Peru](https://x.com/HERDAOPeru) 
 
 ## Directory Structure
 
@@ -73,4 +69,4 @@ For Peru-specific inquiries:
 - **Website:** https://www.her-dao.xyz/
 - **Contact:** Use the contact form on our website
 - **Regional Focus:** Specify Peru in your message
-- **Chapter Email:** peru@her-dao.xyz - *To be updated*
+- **Chapter Email:** 

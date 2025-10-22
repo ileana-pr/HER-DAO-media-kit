@@ -20,10 +20,6 @@ Karibu H.E.R. DAO Kenya! Sisi ni sehemu ya jumuiya ya H.E.R. DAO duniani, tunaji
 ## Social Media & Community Links
 
 - **Twitter:** [@HERDAO_Kenya](https://twitter.com/HERDAO_Kenya) - *To be updated*
-- **Discord:** [H.E.R. DAO Global Discord](https://discord.gg/her-dao) - Kenya channel
-- **LinkedIn:** [H.E.R. DAO Kenya](https://linkedin.com/company/her-dao-kenya) - *To be updated*
-- **Telegram:** [H.E.R. DAO Kenya](https://t.me/herdao_kenya) - *To be updated*
-- **Meetup:** [H.E.R. DAO Kenya Meetup](https://meetup.com/her-dao-kenya) - *To be updated*
 
 ## Directory Structure
 
@@ -73,4 +69,4 @@ For Kenya-specific inquiries:
 - **Website:** https://www.her-dao.xyz/
 - **Contact:** Use the contact form on our website
 - **Regional Focus:** Specify Kenya in your message
-- **Chapter Email:** kenya@her-dao.xyz - *To be updated*
+- **Chapter Email:** 

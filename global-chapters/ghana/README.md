@@ -20,10 +20,6 @@ Akwaaba H.E.R. DAO Ghana! Yɛyɛ H.E.R. DAO wiase kuo no fa, yɛde yɛn ho hyɛ 
 ## Social Media & Community Links
 
 - **Twitter:** [@HERDAO_Ghana](https://twitter.com/HERDAO_Ghana) - *To be updated*
-- **Discord:** [H.E.R. DAO Global Discord](https://discord.gg/her-dao) - Ghana channel
-- **LinkedIn:** [H.E.R. DAO Ghana](https://linkedin.com/company/her-dao-ghana) - *To be updated*
-- **Telegram:** [H.E.R. DAO Ghana](https://t.me/herdao_ghana) - *To be updated*
-- **WhatsApp:** [H.E.R. DAO Ghana](https://wa.me/233XXXXXXXX) - *To be updated*
 
 ## Directory Structure
 
@@ -70,3 +66,4 @@ For Ghana-specific inquiries:
 - **Website:** https://www.her-dao.xyz/
 - **Contact:** Use the contact form on our website
 - **Regional Focus:** Specify Ghana in your message
+- **Chapter Email:** 

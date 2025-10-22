@@ -19,11 +19,7 @@ Welcome to H.E.R. DAO Mexico! We are part of the global H.E.R. DAO community, de
 
 ## Social Media & Community Links
 
-- **Twitter:** [@HERDAO_Mexico](https://twitter.com/HERDAO_Mexico) - *To be updated*
-- **Discord:** [H.E.R. DAO Global Discord](https://discord.gg/her-dao) - Mexico channel
-- **LinkedIn:** [H.E.R. DAO Mexico](https://linkedin.com/company/her-dao-mexico) - *To be updated*
-- **Telegram:** [H.E.R. DAO Mexico](https://t.me/herdao_mexico) - *To be updated*
-- **Meetup:** [H.E.R. DAO Mexico](https://meetup.com/her-dao-mexico) - *To be updated*
+- **Twitter:** [@HERDAO_Mexico](https://x.com/HerDao_Mexico)
 
 ## Directory Structure
 
@@ -73,4 +69,4 @@ For Mexico-specific inquiries:
 - **Website:** https://www.her-dao.xyz/
 - **Contact:** Use the contact form on our website
 - **Regional Focus:** Specify Mexico in your message
-- **Chapter Email:** mexico@her-dao.xyz - *To be updated*
+- **Chapter Email:** 

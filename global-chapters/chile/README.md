@@ -19,11 +19,7 @@ Welcome to H.E.R. DAO Chile! We are part of the global H.E.R. DAO community, ded
 
 ## Social Media & Community Links
 
-- **Twitter:** [@HERDAO_Chile](https://twitter.com/HERDAO_Chile) - *To be updated*
-- **Discord:** [H.E.R. DAO Global Discord](https://discord.gg/her-dao) - Chile channel
-- **LinkedIn:** [H.E.R. DAO Chile](https://linkedin.com/company/her-dao-chile) - *To be updated*
-- **Telegram:** [H.E.R. DAO Chile](https://t.me/herdao_chile) - *To be updated*
-- **Meetup:** [H.E.R. DAO Chile](https://meetup.com/her-dao-chile) - *To be updated*
+- **Twitter:** [@HERDAO_Chile](https://x.com/herdaochile)
 
 ## Directory Structure
 
@@ -73,4 +69,4 @@ For Chile-specific inquiries:
 - **Website:** https://www.her-dao.xyz/
 - **Contact:** Use the contact form on our website
 - **Regional Focus:** Specify Chile in your message
-- **Chapter Email:** chile@her-dao.xyz - *To be updated*
+- **Chapter Email:** 

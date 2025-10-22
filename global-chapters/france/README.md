@@ -20,10 +20,6 @@ Bienvenue à H.E.R. DAO France ! Nous faisons partie de la communauté mondiale 
 ## Social Media & Community Links
 
 - **Twitter:** [@HERDAO_France](https://twitter.com/HERDAO_France) - *To be updated*
-- **Discord:** [H.E.R. DAO Global Discord](https://discord.gg/her-dao) - France channel
-- **LinkedIn:** [H.E.R. DAO France](https://linkedin.com/company/her-dao-france) - *To be updated*
-- **Telegram:** [H.E.R. DAO France](https://t.me/herdao_france) - *To be updated*
-- **Meetup:** [H.E.R. DAO France](https://meetup.com/her-dao-france) - *To be updated*
 
 ## Directory Structure
 
@@ -73,4 +69,4 @@ For France-specific inquiries:
 - **Website:** https://www.her-dao.xyz/
 - **Contact:** Use the contact form on our website
 - **Regional Focus:** Specify France in your message
-- **Chapter Email:** france@her-dao.xyz - *To be updated*
+- **Chapter Email:** 

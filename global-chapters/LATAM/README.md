@@ -20,10 +20,6 @@ Welcome to H.E.R. DAO LATAM! We are the regional coordination hub for H.E.R. DAO
 ## Social Media & Community Links
 
 - **Twitter:** [@HERDAO_LATAM](https://twitter.com/HERDAO_LATAM) - *To be updated*
-- **Discord:** [H.E.R. DAO Global Discord](https://discord.gg/her-dao) - LATAM channel
-- **LinkedIn:** [H.E.R. DAO LATAM](https://linkedin.com/company/her-dao-latam) - *To be updated*
-- **Telegram:** [H.E.R. DAO LATAM](https://t.me/herdao_latam) - *To be updated*
-- **Meetup:** [H.E.R. DAO LATAM](https://meetup.com/her-dao-latam) - *To be updated*
 
 ## Directory Structure
 
@@ -73,4 +69,4 @@ For LATAM regional inquiries:
 - **Website:** https://www.her-dao.xyz/
 - **Contact:** Use the contact form on our website
 - **Regional Focus:** Specify LATAM in your message
-- **Chapter Email:** latam@her-dao.xyz - *To be updated*
+- **Chapter Email:** 

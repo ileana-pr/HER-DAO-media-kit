@@ -20,10 +20,7 @@ H.E.R. DAO Türkiye'ye hoş geldiniz! Küresel H.E.R. DAO topluluğunun bir par�
 ## Social Media & Community Links
 
 - **Twitter:** [@HERDAO_Turkey](https://twitter.com/HERDAO_Turkey) - *To be updated*
-- **Discord:** [H.E.R. DAO Global Discord](https://discord.gg/her-dao) - Turkey channel
-- **LinkedIn:** [H.E.R. DAO Turkey](https://linkedin.com/company/her-dao-turkey) - *To be updated*
-- **Telegram:** [H.E.R. DAO Turkey](https://t.me/herdao_turkey) - *To be updated*
-- **Meetup:** [H.E.R. DAO Turkey](https://meetup.com/her-dao-turkey) - *To be updated*
+
 
 ## Directory Structure
 
@@ -73,4 +70,4 @@ For Turkey-specific inquiries:
 - **Website:** https://www.her-dao.xyz/
 - **Contact:** Use the contact form on our website
 - **Regional Focus:** Specify Turkey in your message
-- **Chapter Email:** turkey@her-dao.xyz - *To be updated*
+- **Chapter Email:** 

@@ -20,10 +20,6 @@ H.E.R. DAO Korea에 오신 것을 환영합니다! 우리는 전 세계 H.E.R. D
 ## Social Media & Community Links
 
 - **Twitter:** [@HERDAO_Korea](https://twitter.com/HERDAO_Korea) - *To be updated*
-- **Discord:** [H.E.R. DAO Global Discord](https://discord.gg/her-dao) - Korea channel
-- **LinkedIn:** [H.E.R. DAO Korea](https://linkedin.com/company/her-dao-korea) - *To be updated*
-- **Telegram:** [H.E.R. DAO Korea](https://t.me/herdao_korea) - *To be updated*
-- **KakaoTalk:** [H.E.R. DAO Korea](https://open.kakao.com/o/herdao_korea) - *To be updated*
 
 ## Directory Structure
 
@@ -73,4 +69,4 @@ For Korea-specific inquiries:
 - **Website:** https://www.her-dao.xyz/
 - **Contact:** Use the contact form on our website
 - **Regional Focus:** Specify Korea in your message
-- **Chapter Email:** korea@her-dao.xyz - *To be updated*
+- **Chapter Email:** 

@@ -20,10 +20,6 @@ Tusanyuse okulaba H.E.R. DAO Uganda! Tuli mu kibiina ky'ensi yonna H.E.R. DAO, t
 ## Social Media & Community Links
 
 - **Twitter:** [@HERDAO_Uganda](https://twitter.com/HERDAO_Uganda) - *To be updated*
-- **Discord:** [H.E.R. DAO Global Discord](https://discord.gg/her-dao) - Uganda channel
-- **LinkedIn:** [H.E.R. DAO Uganda](https://linkedin.com/company/her-dao-uganda) - *To be updated*
-- **Telegram:** [H.E.R. DAO Uganda](https://t.me/herdao_uganda) - *To be updated*
-- **WhatsApp:** [H.E.R. DAO Uganda](https://wa.me/256XXXXXXXX) - *To be updated*
 
 ## Directory Structure
 
@@ -71,3 +67,4 @@ For Uganda-specific inquiries:
 - **Website:** https://www.her-dao.xyz/
 - **Contact:** Use the contact form on our website
 - **Regional Focus:** Specify Uganda in your message
+- **Chapter Email:** 

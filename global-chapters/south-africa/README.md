@@ -19,11 +19,7 @@ Welkom by H.E.R. DAO Suid-Afrika! Ons is deel van die globale H.E.R. DAO gemeens
 
 ## Social Media & Community Links
 
-- **Twitter:** [@HERDAO_SA](https://twitter.com/HERDAO_SA) - *To be updated*
-- **Discord:** [H.E.R. DAO Global Discord](https://discord.gg/her-dao) - South Africa channel
-- **LinkedIn:** [H.E.R. DAO South Africa](https://linkedin.com/company/her-dao-south-africa) - *To be updated*
-- **Telegram:** [H.E.R. DAO South Africa](https://t.me/herdao_southafrica) - *To be updated*
-- **Meetup:** [H.E.R. DAO South Africa](https://meetup.com/her-dao-south-africa) - *To be updated*
+- **Twitter:** [@HERDAO_SA](https://x.com/herdaosa)
 
 ## Directory Structure
 
@@ -73,4 +69,4 @@ For South Africa-specific inquiries:
 - **Website:** https://www.her-dao.xyz/
 - **Contact:** Use the contact form on our website
 - **Regional Focus:** Specify South Africa in your message
-- **Chapter Email:** southafrica@her-dao.xyz - *To be updated*
+- **Chapter Email:** 

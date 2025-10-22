@@ -19,11 +19,7 @@ Barka da zuwa H.E.R. DAO Nigeria! Mu ne wani ɓangare na al'ummar H.E.R. DAO a d
 
 ## Social Media & Community Links
 
-- **Twitter:** [@HERDAO_Nigeria](https://twitter.com/HERDAO_Nigeria) - *To be updated*
-- **Discord:** [H.E.R. DAO Global Discord](https://discord.gg/her-dao) - Nigeria channel
-- **LinkedIn:** [H.E.R. DAO Nigeria](https://linkedin.com/company/her-dao-nigeria) - *To be updated*
-- **Telegram:** [H.E.R. DAO Nigeria](https://t.me/herdao_nigeria) - *To be updated*
-- **WhatsApp:** [H.E.R. DAO Nigeria](https://wa.me/234XXXXXXXXX) - *To be updated*
+- **Twitter:** [@HERDAO_Nigeria](https://x.com/HERDAONigeria)
 
 ## Directory Structure
 
@@ -73,4 +69,4 @@ For Nigeria-specific inquiries:
 - **Website:** https://www.her-dao.xyz/
 - **Contact:** Use the contact form on our website
 - **Regional Focus:** Specify Nigeria in your message
-- **Chapter Email:** nigeria@her-dao.xyz - *To be updated*
+- **Chapter Email:** 

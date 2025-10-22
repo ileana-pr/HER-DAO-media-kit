@@ -19,11 +19,7 @@ Welcome to H.E.R. DAO Bolivia! We are part of the global H.E.R. DAO community, d
 
 ## Social Media & Community Links
 
-- **Twitter:** [@HERDAO_Bolivia](https://twitter.com/HERDAO_Bolivia) - *To be updated*
-- **Discord:** [H.E.R. DAO Global Discord](https://discord.gg/her-dao) - Bolivia channel
-- **LinkedIn:** [H.E.R. DAO Bolivia](https://linkedin.com/company/her-dao-bolivia) - *To be updated*
-- **Telegram:** [H.E.R. DAO Bolivia](https://t.me/herdao_bolivia) - *To be updated*
-- **WhatsApp:** [H.E.R. DAO Bolivia](https://wa.me/591XXXXXXXX) - *To be updated*
+- **Twitter:** [@HERDAO_Bolivia](https://x.com/HerDaoBolivia)
 
 ## Directory Structure
 
@@ -73,4 +69,4 @@ For Bolivia-specific inquiries:
 - **Website:** https://www.her-dao.xyz/
 - **Contact:** Use the contact form on our website
 - **Regional Focus:** Specify Bolivia in your message
-- **Chapter Email:** bolivia@her-dao.xyz - *To be updated*
+- **Chapter Email:** 
